@@ -1,2 +1,2 @@
 # GameCaro
-Game  caro
+Game  caro nâng cao trí tuệ
